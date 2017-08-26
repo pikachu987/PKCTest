@@ -10,7 +10,4 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '8.0'
   s.source_files = 'PKCTest/Classes/**/*'
   s.resources = "PKCTest/**/*"
-  s.resource_bundles = {
-    'PKCTest' => ['PKCTest/Assets/*.png']
-  }
 end

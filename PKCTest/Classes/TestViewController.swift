@@ -8,9 +8,10 @@
 
 import UIKit
 
-class TestViewController: UIViewController {
+public class TestViewController: UIViewController {
     
-    init() {
+    @IBOutlet weak var aa: UIImageView!
+    public init() {
         super.init(nibName: "TestViewController", bundle: Bundle(for: PKCTest.self))
         
         //
@@ -20,7 +21,7 @@ class TestViewController: UIViewController {
         fatalError("init(coder:) has not been implemented")
     }
     
-    override func viewDidLoad() {
+    override public func viewDidLoad() {
         super.viewDidLoad()
     }
 }

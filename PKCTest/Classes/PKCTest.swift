@@ -8,6 +8,8 @@
 
 import UIKit
 
-class PKCTest: NSObject {
+public class PKCTest: NSObject {
+    public override init(){
     
+    }
 }

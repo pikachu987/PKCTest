@@ -19,10 +19,5 @@
     "ios": "8.0"
   },
   "source_files": "PKCTest/Classes/**/*",
-  "resources": "PKCTest/**/*",
-  "resource_bundles": {
-    "PKCCrop": [
-      "PKCTest/Assets/*.png"
-    ]
-  }
+  "resources": "PKCTest/**/*"
 }
