@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'PKCTest'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = 'PKCTest.'
   s.description      = 'Pikachu 987 Test Repo. This is only Test.'
   s.homepage         = 'https://github.com/pikachu987/PKCTest'
@@ -9,5 +9,4 @@ Pod::Spec.new do |s|
   s.source           = { :git => 'https://github.com/pikachu987/PKCTest.git', :tag => s.version.to_s }
   s.ios.deployment_target = '8.0'
   s.source_files = 'PKCTest/Classes/**/*'
-  s.resources = "PKCTest/**/*"
 end

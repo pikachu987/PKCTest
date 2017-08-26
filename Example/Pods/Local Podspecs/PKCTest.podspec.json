@@ -18,6 +18,5 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "PKCTest/Classes/**/*",
-  "resources": "PKCTest/**/*"
+  "source_files": "PKCTest/Classes/**/*"
 }

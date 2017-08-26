@@ -11,7 +11,6 @@
     <objects>
         <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="TestViewController" customModule="PKCTest" customModuleProvider="target">
             <connections>
-                <outlet property="aa" destination="7VH-bc-xqH" id="CXp-LM-X42"/>
                 <outlet property="view" destination="iN0-l3-epB" id="oHe-Is-Cf7"/>
             </connections>
         </placeholder>
@@ -19,19 +18,7 @@
         <view contentMode="scaleToFill" id="iN0-l3-epB">
             <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
             <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-            <subviews>
-                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="pkc_crop_bottom_left.png" translatesAutoresizingMaskIntoConstraints="NO" id="7VH-bc-xqH">
-                    <rect key="frame" x="279" y="571" width="96" height="96"/>
-                </imageView>
-            </subviews>
             <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-            <constraints>
-                <constraint firstAttribute="trailing" secondItem="7VH-bc-xqH" secondAttribute="trailing" id="Zjx-oK-a7v"/>
-                <constraint firstAttribute="bottom" secondItem="7VH-bc-xqH" secondAttribute="bottom" id="udn-Eb-iJf"/>
-            </constraints>
         </view>
     </objects>
-    <resources>
-        <image name="pkc_crop_bottom_left.png" width="96" height="96"/>
-    </resources>
 </document>
