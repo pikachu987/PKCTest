@@ -1,6 +1,6 @@
 {
   "name": "PKCTest",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "PKCTest.",
   "description": "Pikachu 987 Test Repo. This is only Test.",
   "homepage": "https://github.com/pikachu987/PKCTest",
@@ -13,10 +13,16 @@
   },
   "source": {
     "git": "https://github.com/pikachu987/PKCTest.git",
-    "tag": "0.1.0"
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "PKCTest/Classes/**/*"
+  "source_files": "PKCTest/Classes/**/*",
+  "resources": "PKCTest/**/*",
+  "resource_bundles": {
+    "PKCCrop": [
+      "PKCTest/Assets/*.png"
+    ]
+  }
 }

@@ -7,16 +7,24 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		07E3CD4EACF81A0835541BBB0BB94A81 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
-		42E5B2168B4A336C682B6F1888AAA631 /* TestViewController.xib in Sources */ = {isa = PBXBuildFile; fileRef = 3D4AC444E9FFFC8711B03B2659F3FD92 /* TestViewController.xib */; };
+		0469F44AF718B86722CC01B5512D8105 /* PKCTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD749A604B70B3AC716CA2CA0BAF6EE0 /* PKCTest.swift */; };
+		1FC89529DC81AA7CB9BADCE48356638A /* Assets in Resources */ = {isa = PBXBuildFile; fileRef = 117BF3E530862C60ADD0FC50577731CB /* Assets */; };
+		44DFB260A29AECF712BC2256B296CC2C /* PKCCrop.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 80198FDEEC806DDFDEFC8065B0699C47 /* PKCCrop.bundle */; };
 		460C2382BE1F1EA74C89611C342EF46C /* Pods-PKCTest_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = A2D42BE19E6E68E291C24BE4E67C6781 /* Pods-PKCTest_Example-dummy.m */; };
-		634DFD2D34E5CBF2CB367F22F38E8916 /* PKCTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9D743B3221DF7D30FB1BE26EB0F0743 /* PKCTest.swift */; };
-		7E44CAE2BFE41E8EA12B2255E6121424 /* PKCTest-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B9BB8825C0BE95D17662BE1E69CCC0CA /* PKCTest-dummy.m */; };
+		5BC9F9345796E1309D087E56CAC6AEFB /* pkc_crop_bottom_left.png in Resources */ = {isa = PBXBuildFile; fileRef = 39922918F5EDCC4C75B18343FC157E27 /* pkc_crop_bottom_left.png */; };
+		6D1CC2A6A27B6D7E1F954068197642CB /* Classes in Resources */ = {isa = PBXBuildFile; fileRef = 5A0544301CA47F12C00C3B7071538953 /* Classes */; };
+		75D07C832BFA248B93FC5D759E911193 /* pkc_crop_bottom_left.png in Resources */ = {isa = PBXBuildFile; fileRef = 39922918F5EDCC4C75B18343FC157E27 /* pkc_crop_bottom_left.png */; };
+		790735A38A07C99D6D69784E5FA90362 /* PKCTest-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = DA369E8AE49508983BF3C3A82A28E9E9 /* PKCTest-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		7978AE96B6870C087A324C848645301C /* PKCTest-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 5FAB4829DBBC14DF865223B486D08378 /* PKCTest-dummy.m */; };
+		7E2EFF35DC9EF03B37BE4D8D375AD321 /* TestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31AA59067D70636D979012629DF6A767 /* TestViewController.swift */; };
+		841978E2B1832BECC3CF2F535F942D87 /* TestViewController.swift in Resources */ = {isa = PBXBuildFile; fileRef = 31AA59067D70636D979012629DF6A767 /* TestViewController.swift */; };
 		87B2CA5C7FC561D83C13E6C917D28A0B /* Pods-PKCTest_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 8E01B41E0F34CAF8B47369C6EB02E9B8 /* Pods-PKCTest_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9147ACC5BF6055E8DA232074EE549220 /* TestViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 080EB49B70C2142A09DF2B4259EDB454 /* TestViewController.xib */; };
+		A2653C7EB675FB932A85D475EC8B6EAC /* PKCTest.swift in Resources */ = {isa = PBXBuildFile; fileRef = FD749A604B70B3AC716CA2CA0BAF6EE0 /* PKCTest.swift */; };
 		B21055A5B0E6975626D57AF78E80C3C0 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
+		B49E91CF415B9FC843A4DED2428E2EF8 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
 		CB6C05B721647B41FC785E121AA00358 /* Pods-PKCTest_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 11B6DCB8187FFBF19D68BB7CAACBD7D1 /* Pods-PKCTest_Tests-dummy.m */; };
-		D4F96018BDFAED7EE045D583EAEB1081 /* TestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25ABA00A691A398CB375C0393154506D /* TestViewController.swift */; };
-		D6A90F6717BB2F6BB9747C6950B4BDB7 /* PKCTest-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = F3E5DB5FE8EA7C32C7B84C08B73BB922 /* PKCTest-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		EA160BD16E962060BE131B1648D81696 /* TestViewController.xib in Sources */ = {isa = PBXBuildFile; fileRef = 080EB49B70C2142A09DF2B4259EDB454 /* TestViewController.xib */; };
 		EB30CE9EEBA54A55E0B33FEAF22A85A8 /* Pods-PKCTest_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = A852FA8AFFF5483B4ADE4815D6603A67 /* Pods-PKCTest_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		FE21D003432540BE09D92C73FEAD7888 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
 /* End PBXBuildFile section */
@@ -26,62 +34,74 @@
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 184EAD48A71EA284FC7B47D48E9B5FE1;
+			remoteGlobalIDString = 4080B4856D15797984147A67C2558B2E;
 			remoteInfo = PKCTest;
+		};
+		587DAE403DFC86C6E5B6044E8FD48226 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D1C27FF202EE60F09304E956FA19EDFF;
+			remoteInfo = "PKCTest-PKCCrop";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		02A58CD5054F80CC71FDC79A9026D82A /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		080EB49B70C2142A09DF2B4259EDB454 /* TestViewController.xib */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file.xib; path = TestViewController.xib; sourceTree = "<group>"; };
 		09335227C31C711A9E24D9C9C2B7FF9A /* Pods-PKCTest_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-PKCTest_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		0D6D62EED81D7A197DD3A07382EC7977 /* Pods-PKCTest_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-PKCTest_Example.modulemap"; sourceTree = "<group>"; };
+		0D6D62EED81D7A197DD3A07382EC7977 /* Pods-PKCTest_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-PKCTest_Example.modulemap"; sourceTree = "<group>"; };
 		0E67F4A6BD0366EAE9A5C4C0772D337C /* Pods-PKCTest_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-PKCTest_Example-acknowledgements.plist"; sourceTree = "<group>"; };
+		117BF3E530862C60ADD0FC50577731CB /* Assets */ = {isa = PBXFileReference; includeInIndex = 1; path = Assets; sourceTree = "<group>"; };
 		11B6DCB8187FFBF19D68BB7CAACBD7D1 /* Pods-PKCTest_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-PKCTest_Tests-dummy.m"; sourceTree = "<group>"; };
-		153B86EBFB020C872FEA7E549557568F /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1F1B4972B5D693B55FCAB85DC78A1776 /* Pods-PKCTest_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-PKCTest_Tests-frameworks.sh"; sourceTree = "<group>"; };
-		25ABA00A691A398CB375C0393154506D /* TestViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = TestViewController.swift; sourceTree = "<group>"; };
-		2A3DB01D6AEAE4E7371BF4AAE03B2893 /* PKCTest.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = PKCTest.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		267B921815C41584C6D5297B0E62E2C3 /* Pods_PKCTest_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_PKCTest_Example.framework; path = "Pods-PKCTest_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		31AA59067D70636D979012629DF6A767 /* TestViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = TestViewController.swift; sourceTree = "<group>"; };
+		34AC0494193062651C2B54F144E8BF78 /* PKCTest.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = PKCTest.modulemap; sourceTree = "<group>"; };
 		361FB7BF8D60EEA402C245FE8F22C22B /* Pods-PKCTest_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-PKCTest_Example-frameworks.sh"; sourceTree = "<group>"; };
-		3CD37F60A535FCAB36F08FA09C3916DD /* Pods-PKCTest_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-PKCTest_Tests.modulemap"; sourceTree = "<group>"; };
-		3D4AC444E9FFFC8711B03B2659F3FD92 /* TestViewController.xib */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file.xib; path = TestViewController.xib; sourceTree = "<group>"; };
-		43FE12B775524FB8FD09B8CC567F9474 /* PKCTest.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = PKCTest.modulemap; sourceTree = "<group>"; };
+		39922918F5EDCC4C75B18343FC157E27 /* pkc_crop_bottom_left.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = pkc_crop_bottom_left.png; sourceTree = "<group>"; };
+		3CD37F60A535FCAB36F08FA09C3916DD /* Pods-PKCTest_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-PKCTest_Tests.modulemap"; sourceTree = "<group>"; };
 		4999040E6B4A44141048E07508172D32 /* Pods-PKCTest_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-PKCTest_Tests-resources.sh"; sourceTree = "<group>"; };
+		5A0544301CA47F12C00C3B7071538953 /* Classes */ = {isa = PBXFileReference; includeInIndex = 1; path = Classes; sourceTree = "<group>"; };
+		5FAB4829DBBC14DF865223B486D08378 /* PKCTest-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "PKCTest-dummy.m"; sourceTree = "<group>"; };
 		6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		69C5E54B24F9C955DB9B8E116EF586D8 /* PKCTest-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "PKCTest-prefix.pch"; sourceTree = "<group>"; };
 		6AF97D4F6B8D7D4EEC035977097C37DB /* Pods-PKCTest_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-PKCTest_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		7AE251E6ED6F0528F23BF9F3601F73CA /* Pods_PKCTest_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PKCTest_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		7C4737EF3BFDEEC9564B3BB83C9FF171 /* Pods-PKCTest_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-PKCTest_Example.debug.xcconfig"; sourceTree = "<group>"; };
+		80198FDEEC806DDFDEFC8065B0699C47 /* PKCCrop.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = PKCCrop.bundle; path = PKCCrop.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
+		810CF2DD878E6F5A71D8EA23B1F1D573 /* PKCTest-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "PKCTest-prefix.pch"; sourceTree = "<group>"; };
+		8206E9FFE6BE8F91AD4BD5F3D0D16B6A /* ResourceBundle-PKCCrop-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-PKCCrop-Info.plist"; sourceTree = "<group>"; };
 		8E01B41E0F34CAF8B47369C6EB02E9B8 /* Pods-PKCTest_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-PKCTest_Example-umbrella.h"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		8EFE95B4CF41C710FA864E96AC8DEB7E /* PKCTest.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = PKCTest.xcconfig; sourceTree = "<group>"; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		99F089AA672B8D3F39DE740AC61FB1FB /* Pods-PKCTest_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-PKCTest_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		A2D42BE19E6E68E291C24BE4E67C6781 /* Pods-PKCTest_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-PKCTest_Example-dummy.m"; sourceTree = "<group>"; };
 		A3ADB6F82FD4DAE94500CD95849D6800 /* Pods-PKCTest_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-PKCTest_Example.release.xcconfig"; sourceTree = "<group>"; };
 		A852FA8AFFF5483B4ADE4815D6603A67 /* Pods-PKCTest_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-PKCTest_Tests-umbrella.h"; sourceTree = "<group>"; };
 		B26CA4CDAD8FCC880F454824F58D04D0 /* Pods-PKCTest_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-PKCTest_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		B81CD9EA42B3566C1C0C99ED0D0F5EA5 /* Pods-PKCTest_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-PKCTest_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		B9BB8825C0BE95D17662BE1E69CCC0CA /* PKCTest-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "PKCTest-dummy.m"; sourceTree = "<group>"; };
 		C898594C6606879582E9617D6B92BD81 /* Pods-PKCTest_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-PKCTest_Example-resources.sh"; sourceTree = "<group>"; };
-		CDE6045F6714517CD7027218C257F449 /* Pods_PKCTest_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PKCTest_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D1E9CBAFE259B6ACF9BE903A2EEF60F9 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D6A160C969B1F02F90394B1E68C0702A /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D9D743B3221DF7D30FB1BE26EB0F0743 /* PKCTest.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = PKCTest.swift; sourceTree = "<group>"; };
-		F3E5DB5FE8EA7C32C7B84C08B73BB922 /* PKCTest-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "PKCTest-umbrella.h"; sourceTree = "<group>"; };
-		FAD1AB4F13F188AC3E6D2F1AD0FD5D1A /* PKCTest.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = PKCTest.xcconfig; sourceTree = "<group>"; };
+		D72D5F9E01F57CDA4E94ECEC76E465AC /* PKCTest.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = PKCTest.framework; path = PKCTest.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		DA369E8AE49508983BF3C3A82A28E9E9 /* PKCTest-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "PKCTest-umbrella.h"; sourceTree = "<group>"; };
+		F8299838F8983C58E761CAFBF0D71D38 /* Pods_PKCTest_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_PKCTest_Tests.framework; path = "Pods-PKCTest_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FD749A604B70B3AC716CA2CA0BAF6EE0 /* PKCTest.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = PKCTest.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		5B33228FDA1FCEA164083ABE3731590D /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				07E3CD4EACF81A0835541BBB0BB94A81 /* Foundation.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		68242CBCBF62A33162083E0D153A311E /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				B21055A5B0E6975626D57AF78E80C3C0 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7EC5F2C0035812D1B90C0587D37DA725 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B49E91CF415B9FC843A4DED2428E2EF8 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -93,25 +113,23 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		BFCD35807EC20C292E4D3316B61EE2C5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		0A982853D8BA41496E97126BA70E83FB /* Classes */ = {
+		142FFF5028A774AAC87F69CA3EA8402F /* PKCTest */ = {
 			isa = PBXGroup;
 			children = (
-				D9D743B3221DF7D30FB1BE26EB0F0743 /* PKCTest.swift */,
-				25ABA00A691A398CB375C0393154506D /* TestViewController.swift */,
-				3D4AC444E9FFFC8711B03B2659F3FD92 /* TestViewController.xib */,
+				E7C0F37EC9208298EA8C44DF6D3E695C /* Classes */,
 			);
-			path = Classes;
-			sourceTree = "<group>";
-		};
-		11C8F7BD5FC6EE858FE74320154D1E38 /* Development Pods */ = {
-			isa = PBXGroup;
-			children = (
-				7361F7A8B94FF2BC2DE0F936BA9D3C77 /* PKCTest */,
-			);
-			name = "Development Pods";
+			name = PKCTest;
+			path = PKCTest;
 			sourceTree = "<group>";
 		};
 		14E677275D0D6DAE697E7BBE9D6F424B /* Pods-PKCTest_Tests */ = {
@@ -150,57 +168,63 @@
 			path = "Target Support Files/Pods-PKCTest_Example";
 			sourceTree = "<group>";
 		};
-		7361F7A8B94FF2BC2DE0F936BA9D3C77 /* PKCTest */ = {
+		3DD0841A8190975F6B049F225F3641AA /* Assets */ = {
 			isa = PBXGroup;
 			children = (
-				7712D031A6504A033F412CE0F6513D7D /* PKCTest */,
-				7D97D0EE9BBD4053A99DF9E2800FAA20 /* Support Files */,
+				39922918F5EDCC4C75B18343FC157E27 /* pkc_crop_bottom_left.png */,
 			);
-			name = PKCTest;
-			path = ../..;
+			name = Assets;
+			path = Assets;
 			sourceTree = "<group>";
 		};
-		7712D031A6504A033F412CE0F6513D7D /* PKCTest */ = {
+		5790F38327D53631BC83FC98188016FA /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				0A982853D8BA41496E97126BA70E83FB /* Classes */,
+				D57BC064F88361E6B4068A7F6DFE0C42 /* PKCTest */,
 			);
-			path = PKCTest;
-			sourceTree = "<group>";
-		};
-		7D97D0EE9BBD4053A99DF9E2800FAA20 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				153B86EBFB020C872FEA7E549557568F /* Info.plist */,
-				43FE12B775524FB8FD09B8CC567F9474 /* PKCTest.modulemap */,
-				FAD1AB4F13F188AC3E6D2F1AD0FD5D1A /* PKCTest.xcconfig */,
-				B9BB8825C0BE95D17662BE1E69CCC0CA /* PKCTest-dummy.m */,
-				69C5E54B24F9C955DB9B8E116EF586D8 /* PKCTest-prefix.pch */,
-				F3E5DB5FE8EA7C32C7B84C08B73BB922 /* PKCTest-umbrella.h */,
-			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/PKCTest";
+			name = "Development Pods";
 			sourceTree = "<group>";
 		};
 		7DB346D0F39D3F0E887471402A8071AB = {
 			isa = PBXGroup;
 			children = (
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
-				11C8F7BD5FC6EE858FE74320154D1E38 /* Development Pods */,
+				5790F38327D53631BC83FC98188016FA /* Development Pods */,
 				BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */,
-				AA7B8191C1D40EFBA737D7002B67CD26 /* Products */,
+				8DEF0EE1D26CC926E5B334291AE71167 /* Products */,
 				F5A2B4A3A53F41AE9C94FA053395E9EE /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
 		};
-		AA7B8191C1D40EFBA737D7002B67CD26 /* Products */ = {
+		8DEF0EE1D26CC926E5B334291AE71167 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				2A3DB01D6AEAE4E7371BF4AAE03B2893 /* PKCTest.framework */,
-				CDE6045F6714517CD7027218C257F449 /* Pods_PKCTest_Example.framework */,
-				7AE251E6ED6F0528F23BF9F3601F73CA /* Pods_PKCTest_Tests.framework */,
+				80198FDEEC806DDFDEFC8065B0699C47 /* PKCCrop.bundle */,
+				D72D5F9E01F57CDA4E94ECEC76E465AC /* PKCTest.framework */,
+				267B921815C41584C6D5297B0E62E2C3 /* Pods_PKCTest_Example.framework */,
+				F8299838F8983C58E761CAFBF0D71D38 /* Pods_PKCTest_Tests.framework */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		8EE54BDC8678BB0BFF5C3FDC8160ABE5 /* PKCTest */ = {
+			isa = PBXGroup;
+			children = (
+				117BF3E530862C60ADD0FC50577731CB /* Assets */,
+				5A0544301CA47F12C00C3B7071538953 /* Classes */,
+				3DD0841A8190975F6B049F225F3641AA /* Assets */,
+				F6C9BE9DAA50EE37635FFB1C54D14CF8 /* Classes */,
+			);
+			name = PKCTest;
+			path = PKCTest;
+			sourceTree = "<group>";
+		};
+		B9113843EBBDE01D35224CBAADDF1C8D /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				8EE54BDC8678BB0BFF5C3FDC8160ABE5 /* PKCTest */,
+			);
+			name = Resources;
 			sourceTree = "<group>";
 		};
 		BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */ = {
@@ -211,12 +235,49 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		D06B42799932C63866C2710D367C4854 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				02A58CD5054F80CC71FDC79A9026D82A /* Info.plist */,
+				34AC0494193062651C2B54F144E8BF78 /* PKCTest.modulemap */,
+				8EFE95B4CF41C710FA864E96AC8DEB7E /* PKCTest.xcconfig */,
+				5FAB4829DBBC14DF865223B486D08378 /* PKCTest-dummy.m */,
+				810CF2DD878E6F5A71D8EA23B1F1D573 /* PKCTest-prefix.pch */,
+				DA369E8AE49508983BF3C3A82A28E9E9 /* PKCTest-umbrella.h */,
+				8206E9FFE6BE8F91AD4BD5F3D0D16B6A /* ResourceBundle-PKCCrop-Info.plist */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/PKCTest";
+			sourceTree = "<group>";
+		};
 		D35AF013A5F0BAD4F32504907A52519E /* iOS */ = {
 			isa = PBXGroup;
 			children = (
 				6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */,
 			);
 			name = iOS;
+			sourceTree = "<group>";
+		};
+		D57BC064F88361E6B4068A7F6DFE0C42 /* PKCTest */ = {
+			isa = PBXGroup;
+			children = (
+				142FFF5028A774AAC87F69CA3EA8402F /* PKCTest */,
+				B9113843EBBDE01D35224CBAADDF1C8D /* Resources */,
+				D06B42799932C63866C2710D367C4854 /* Support Files */,
+			);
+			name = PKCTest;
+			path = ../..;
+			sourceTree = "<group>";
+		};
+		E7C0F37EC9208298EA8C44DF6D3E695C /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				FD749A604B70B3AC716CA2CA0BAF6EE0 /* PKCTest.swift */,
+				31AA59067D70636D979012629DF6A767 /* TestViewController.swift */,
+				080EB49B70C2142A09DF2B4259EDB454 /* TestViewController.xib */,
+			);
+			name = Classes;
+			path = Classes;
 			sourceTree = "<group>";
 		};
 		F5A2B4A3A53F41AE9C94FA053395E9EE /* Targets Support Files */ = {
@@ -228,22 +289,30 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
+		F6C9BE9DAA50EE37635FFB1C54D14CF8 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Classes;
+			path = Classes;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		6201531DD65D4B4BFB0375FB4852D8A0 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				D6A90F6717BB2F6BB9747C6950B4BDB7 /* PKCTest-umbrella.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		67A98925111ABC254EE19E0B7FB7F7DC /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				87B2CA5C7FC561D83C13E6C917D28A0B /* Pods-PKCTest_Example-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C7462E67199C6FBB4BBDF28A81418878 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				790735A38A07C99D6D69784E5FA90362 /* PKCTest-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,21 +327,23 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		184EAD48A71EA284FC7B47D48E9B5FE1 /* PKCTest */ = {
+		4080B4856D15797984147A67C2558B2E /* PKCTest */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B1580F2EA8F12ACDB40EEE990EE58711 /* Build configuration list for PBXNativeTarget "PKCTest" */;
+			buildConfigurationList = 00BE3A80D28C17199027214C4E2350E9 /* Build configuration list for PBXNativeTarget "PKCTest" */;
 			buildPhases = (
-				95014FB356783FE5E69C0CFFB684A715 /* Sources */,
-				5B33228FDA1FCEA164083ABE3731590D /* Frameworks */,
-				6201531DD65D4B4BFB0375FB4852D8A0 /* Headers */,
+				A61B37101644DE98F1A33E06983832D2 /* Sources */,
+				7EC5F2C0035812D1B90C0587D37DA725 /* Frameworks */,
+				1C026B4CE91E5451A07C469F797FB81E /* Resources */,
+				C7462E67199C6FBB4BBDF28A81418878 /* Headers */,
 			);
 			buildRules = (
 			);
 			dependencies = (
+				AE6289CAD086900DAB9D72C6EDA854C0 /* PBXTargetDependency */,
 			);
 			name = PKCTest;
 			productName = PKCTest;
-			productReference = 2A3DB01D6AEAE4E7371BF4AAE03B2893 /* PKCTest.framework */;
+			productReference = D72D5F9E01F57CDA4E94ECEC76E465AC /* PKCTest.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		A6170920E3986C524CCB74EB1BE79EF8 /* Pods-PKCTest_Tests */ = {
@@ -289,7 +360,7 @@
 			);
 			name = "Pods-PKCTest_Tests";
 			productName = "Pods-PKCTest_Tests";
-			productReference = 7AE251E6ED6F0528F23BF9F3601F73CA /* Pods_PKCTest_Tests.framework */;
+			productReference = F8299838F8983C58E761CAFBF0D71D38 /* Pods_PKCTest_Tests.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		B957FD718A3072966CD5AB5112166FE1 /* Pods-PKCTest_Example */ = {
@@ -307,8 +378,25 @@
 			);
 			name = "Pods-PKCTest_Example";
 			productName = "Pods-PKCTest_Example";
-			productReference = CDE6045F6714517CD7027218C257F449 /* Pods_PKCTest_Example.framework */;
+			productReference = 267B921815C41584C6D5297B0E62E2C3 /* Pods_PKCTest_Example.framework */;
 			productType = "com.apple.product-type.framework";
+		};
+		D1C27FF202EE60F09304E956FA19EDFF /* PKCTest-PKCCrop */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F5DE8FF6A08F6308D1AD7739790DE45C /* Build configuration list for PBXNativeTarget "PKCTest-PKCCrop" */;
+			buildPhases = (
+				E4C086F85445EFC84DD159C615CC515B /* Sources */,
+				BFCD35807EC20C292E4D3316B61EE2C5 /* Frameworks */,
+				3085B63B0BAEF0926A2F7707E68611EC /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "PKCTest-PKCCrop";
+			productName = "PKCTest-PKCCrop";
+			productReference = 80198FDEEC806DDFDEFC8065B0699C47 /* PKCCrop.bundle */;
+			productType = "com.apple.product-type.bundle";
 		};
 /* End PBXNativeTarget section */
 
@@ -327,16 +415,42 @@
 				en,
 			);
 			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
-			productRefGroup = AA7B8191C1D40EFBA737D7002B67CD26 /* Products */;
+			productRefGroup = 8DEF0EE1D26CC926E5B334291AE71167 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				184EAD48A71EA284FC7B47D48E9B5FE1 /* PKCTest */,
+				4080B4856D15797984147A67C2558B2E /* PKCTest */,
+				D1C27FF202EE60F09304E956FA19EDFF /* PKCTest-PKCCrop */,
 				B957FD718A3072966CD5AB5112166FE1 /* Pods-PKCTest_Example */,
 				A6170920E3986C524CCB74EB1BE79EF8 /* Pods-PKCTest_Tests */,
 			);
 		};
 /* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1C026B4CE91E5451A07C469F797FB81E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1FC89529DC81AA7CB9BADCE48356638A /* Assets in Resources */,
+				6D1CC2A6A27B6D7E1F954068197642CB /* Classes in Resources */,
+				75D07C832BFA248B93FC5D759E911193 /* pkc_crop_bottom_left.png in Resources */,
+				44DFB260A29AECF712BC2256B296CC2C /* PKCCrop.bundle in Resources */,
+				A2653C7EB675FB932A85D475EC8B6EAC /* PKCTest.swift in Resources */,
+				841978E2B1832BECC3CF2F535F942D87 /* TestViewController.swift in Resources */,
+				9147ACC5BF6055E8DA232074EE549220 /* TestViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3085B63B0BAEF0926A2F7707E68611EC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5BC9F9345796E1309D087E56CAC6AEFB /* pkc_crop_bottom_left.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		76D9DC921CF6D74B65D2D67821CC5FB5 /* Sources */ = {
@@ -355,14 +469,21 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		95014FB356783FE5E69C0CFFB684A715 /* Sources */ = {
+		A61B37101644DE98F1A33E06983832D2 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7E44CAE2BFE41E8EA12B2255E6121424 /* PKCTest-dummy.m in Sources */,
-				634DFD2D34E5CBF2CB367F22F38E8916 /* PKCTest.swift in Sources */,
-				D4F96018BDFAED7EE045D583EAEB1081 /* TestViewController.swift in Sources */,
-				42E5B2168B4A336C682B6F1888AAA631 /* TestViewController.xib in Sources */,
+				7978AE96B6870C087A324C848645301C /* PKCTest-dummy.m in Sources */,
+				0469F44AF718B86722CC01B5512D8105 /* PKCTest.swift in Sources */,
+				7E2EFF35DC9EF03B37BE4D8D375AD321 /* TestViewController.swift in Sources */,
+				EA160BD16E962060BE131B1648D81696 /* TestViewController.xib in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E4C086F85445EFC84DD159C615CC515B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -372,12 +493,53 @@
 		A1C3F523F556BC76AC90D0373D2DC936 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = PKCTest;
-			target = 184EAD48A71EA284FC7B47D48E9B5FE1 /* PKCTest */;
+			target = 4080B4856D15797984147A67C2558B2E /* PKCTest */;
 			targetProxy = 557B99AA63852F6DF8EB804100EC8C58 /* PBXContainerItemProxy */;
+		};
+		AE6289CAD086900DAB9D72C6EDA854C0 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "PKCTest-PKCCrop";
+			target = D1C27FF202EE60F09304E956FA19EDFF /* PKCTest-PKCCrop */;
+			targetProxy = 587DAE403DFC86C6E5B6044E8FD48226 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
+		062FDA0E77D3CA3D7852F7ACC396F53E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8EFE95B4CF41C710FA864E96AC8DEB7E /* PKCTest.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/PKCTest/PKCTest-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/PKCTest/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/PKCTest/PKCTest.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				PRODUCT_NAME = PKCTest;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
 		2565AB29C8DE8CE9C90A4E2774675C3F /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = B81CD9EA42B3566C1C0C99ED0D0F5EA5 /* Pods-PKCTest_Tests.release.xcconfig */;
@@ -414,38 +576,20 @@
 			};
 			name = Release;
 		};
-		3459B6878189EDF823CE24B18B5CADA8 /* Release */ = {
+		4B98FBA40E12D2515F737323286755F3 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = FAD1AB4F13F188AC3E6D2F1AD0FD5D1A /* PKCTest.xcconfig */;
+			baseConfigurationReference = 8EFE95B4CF41C710FA864E96AC8DEB7E /* PKCTest.xcconfig */;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/PKCTest";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/PKCTest/PKCTest-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/PKCTest/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				INFOPLIST_FILE = "Target Support Files/PKCTest/ResourceBundle-PKCCrop-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/PKCTest/PKCTest.modulemap";
-				MTL_ENABLE_DEBUG_INFO = NO;
-				PRODUCT_NAME = PKCTest;
+				PRODUCT_NAME = PKCCrop;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
-				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
+				WRAPPER_EXTENSION = bundle;
 			};
 			name = Release;
 		};
@@ -529,41 +673,6 @@
 			};
 			name = Release;
 		};
-		A34CEC796C0B845489266A02527F698E /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = FAD1AB4F13F188AC3E6D2F1AD0FD5D1A /* PKCTest.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/PKCTest/PKCTest-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/PKCTest/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/PKCTest/PKCTest.modulemap";
-				MTL_ENABLE_DEBUG_INFO = YES;
-				PRODUCT_NAME = PKCTest;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 3.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
 		A6A03C9B1314C05BD3C2FBD3F65EDF83 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -612,6 +721,41 @@
 				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Debug;
+		};
+		D1E5BAC14395D9D9941630C0713FA21E /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8EFE95B4CF41C710FA864E96AC8DEB7E /* PKCTest.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/PKCTest/PKCTest-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/PKCTest/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/PKCTest/PKCTest.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = PKCTest;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
 		};
 		D4D3889462DE1D62B39EB362EC6CB3D5 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -690,9 +834,35 @@
 			};
 			name = Release;
 		};
+		E4E3757C3E089C82EC9D5D70AACDB38A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8EFE95B4CF41C710FA864E96AC8DEB7E /* PKCTest.xcconfig */;
+			buildSettings = {
+				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/PKCTest";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/PKCTest/ResourceBundle-PKCCrop-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PRODUCT_NAME = PKCCrop;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				WRAPPER_EXTENSION = bundle;
+			};
+			name = Debug;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		00BE3A80D28C17199027214C4E2350E9 /* Build configuration list for PBXNativeTarget "PKCTest" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				062FDA0E77D3CA3D7852F7ACC396F53E /* Debug */,
+				D1E5BAC14395D9D9941630C0713FA21E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -720,11 +890,11 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B1580F2EA8F12ACDB40EEE990EE58711 /* Build configuration list for PBXNativeTarget "PKCTest" */ = {
+		F5DE8FF6A08F6308D1AD7739790DE45C /* Build configuration list for PBXNativeTarget "PKCTest-PKCCrop" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A34CEC796C0B845489266A02527F698E /* Debug */,
-				3459B6878189EDF823CE24B18B5CADA8 /* Release */,
+				E4E3757C3E089C82EC9D5D70AACDB38A /* Debug */,
+				4B98FBA40E12D2515F737323286755F3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

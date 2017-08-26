@@ -1,5 +1,5 @@
 PODS:
-  - PKCTest (0.1.0)
+  - PKCTest (0.1.1)
 
 DEPENDENCIES:
   - PKCTest (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  PKCTest: 031ecf56add88c7192d1bf097774cd2f0a4d531e
+  PKCTest: a7c4accf8b873b923ef2894938cb0a1cf7992603
 
 PODFILE CHECKSUM: ebf3bdeef1ea058e1f105a3bb26d42ad0c935ca1
 
