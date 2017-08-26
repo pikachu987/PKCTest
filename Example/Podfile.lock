@@ -1,0 +1,16 @@
+PODS:
+  - PKCTest (0.1.0)
+
+DEPENDENCIES:
+  - PKCTest (from `../`)
+
+EXTERNAL SOURCES:
+  PKCTest:
+    :path: ../
+
+SPEC CHECKSUMS:
+  PKCTest: b6c3fc44ef1a61c0b9756b44f08dc375a0a8c0bc
+
+PODFILE CHECKSUM: ebf3bdeef1ea058e1f105a3bb26d42ad0c935ca1
+
+COCOAPODS: 1.3.0.beta.1

@@ -1,0 +1,6 @@
+framework module PKCTest {
+  umbrella header "PKCTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
