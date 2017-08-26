@@ -20,6 +20,6 @@ Pod::Spec.new do |s|
   s.source_files = 'PKCTest/Classes/**/*'
 s.resources = "PKCTest/**/*"
 s.resource_bundles = {
-'PKCCrop' => ['PKCTest/Assets/*.png']
+'PKCTest' => ['PKCTest/Assets/*.png']
 }
 end
